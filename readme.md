@@ -14,5 +14,5 @@ For Admin Account, please create one with superuser!
 
 
  Admin Access
-- **Username:** sidd
-- **Password:** sidd@123
+- Username:admin
+- Password:admin123
