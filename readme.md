@@ -13,6 +13,6 @@ uses a fake payment method, for example and practical purposes
 For Admin Account, please create one with superuser!
 
 
- Admin Access
-- Username:admin
+ for Admin Access
+- Username: admin
 - Password:admin123
