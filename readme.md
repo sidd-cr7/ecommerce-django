@@ -1,4 +1,4 @@
- **RTW Shop - eCommerce Site in Django Python**
+ **ecom website- eCommerce Site in Django Python**
  
 a simple e-commerce website where you can add products, create customer sign-in and login, and purchase products
 
