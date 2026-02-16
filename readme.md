@@ -12,6 +12,8 @@ uses a fake payment method, for example and practical purposes
 - python manage.py migrate
 - And finally, run the application: python manage.py runserver
 
+---
+
 For Admin Account, please create one with superuser!
 
 
