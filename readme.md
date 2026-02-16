@@ -4,6 +4,8 @@ a simple e-commerce website where you can add products, create customer sign-in 
 
 uses a fake payment method, for example and practical purposes
 
+---
+
 **Instructions**
 - Install the Requirements: pip install -r requirements.txt
 - Then, make database migrations: python manage.py makemigrations
