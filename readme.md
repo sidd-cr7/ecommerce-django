@@ -1,6 +1,6 @@
  **Ecom Website- eCommerce Site in Django Python**
  
-a simple e-commerce website where you can add products, create customer sign-in and login, and purchase products
+a simple e-commerce website where you can add products, create customer sign-in and login, and purchase products. 
 
 uses a fake payment method, for example and practical purposes
 
